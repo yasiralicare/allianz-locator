@@ -14,4 +14,7 @@
 
     <string name="openDrawer">open</string>
     <string name="closeDrawer">close</string>
+
+    <string name="parse_app_id">lmeG7p2nto4hSoYGFBHd126HC6rpbhiIuhkt1Vuc</string>
+    <string name="parse_client_key">9mCp7Mwa3KkHb6cujFMaFClDxZ4a7eLPY9b0U0wF</string>
 </resources>
